@@ -1,0 +1,1 @@
+// Playback display area, draggable in Director 7 and later; Modify->Movie Properties will change Stage size, Background color (and mask color), Default Palette
