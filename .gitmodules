@@ -1,0 +1,6 @@
+[submodule "vendor/ProjectorRays"]
+	path = vendor/ProjectorRays
+	url = https://github.com/ProjectorRays/ProjectorRays.git
+[submodule "vendor/scummvm"]
+	path = vendor/scummvm
+	url = https://github.com/scummvm/scummvm.git
